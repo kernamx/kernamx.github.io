@@ -63,15 +63,15 @@
     #thewrath{
       height: 520px;
       width: 400px;
-      margin: auto;
+      padding: auto;
     }
     #orthanc{
       height: 520px;
       width: 400px;
-      margin: auto;
+      padding: 20px;
     }
     #treebeard{
       height: 520px;
       width: 400px;
-      padding: 40px;
+      padding: 20px;
     }
