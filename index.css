@@ -1,0 +1,86 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+      background-color: #1E0CE8;
+       width: 800px;
+       margin: 0 auto;
+    }
+
+    h1 {
+        background-color: #1E0CE8;
+        padding: 50px;
+        border-style: solid;
+        margin: 20px;
+        font-size: 20px;
+        display: block;
+    }
+    nav {
+        float: left;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+      border-style: solid;
+      padding-left: 50px
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
+    #moria{
+      height: 520px;
+      width: 400px;
+    }
+    #isengard{
+      height: 520px;
+      width: 400px;
+    }
+    #minplace{
+      height: 520px;
+      width: 400px;
+    }
+    #mount-doom1{
+      height: 520px;
+      width: 400px;
+    }
+    #middleearth{
+      height: 500px;
+      width: 550px;
+    }
